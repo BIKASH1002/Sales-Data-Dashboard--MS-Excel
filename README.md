@@ -4,7 +4,11 @@
 
 This work contains an interactive Excel dashboard that visualizes product sales across various cities and product categories. The dataset spans from 2020 to 2021 and provides insights into product performance, sales trends, and quantity variance.
 
-# Insights
+# Setup 
+
+Microsoft Excel
+
+# Key Visualization
 
 The dashboard focuses on the following key areas:
 
@@ -22,13 +26,9 @@ A bar chart highlights the quantity variance of products sold across different c
 **4) Product Sales Distribution Among Cities:**
 A pie chart provides a proportional breakdown of product sales by city.
 
-# Setup 
-
-Microsoft Excel
-
 # Features
 
-**1) Interactive Filters:** Users can filter the data by order date, city, and product category.
+**1) Interactive Filters:** Users can filter the data by order date, city and product category.
 
 **2) Dynamic Visuals:** All visuals are interlinked to update dynamically based on selected filters.
 
@@ -58,8 +58,8 @@ Microsoft Excel
 
 This dashboard is ideal for:
 
-1) Sales analysis and reporting for FMCG (Fast-Moving Consumer Goods) sectors.
+**1)** Sales analysis and reporting for FMCG (Fast-Moving Consumer Goods) sectors.
 
-2) Performance tracking and decision-making based on sales data trends.
+**2)** Performance tracking and decision-making based on sales data trends.
 
-3) Visualizing data insights for business presentations and strategy meetings.
+**3)** Visualizing data insights for business presentations and strategy meetings.
