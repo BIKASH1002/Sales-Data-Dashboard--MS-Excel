@@ -10,6 +10,7 @@ Microsoft Excel
 
 # Key Visualization
 
+<div align = "justify">
 The dashboard focuses on the following key areas:
 
 **1) Sales by City and Product Category:**
@@ -33,6 +34,8 @@ A pie chart provides a proportional breakdown of product sales by city.
 **2) Dynamic Visuals:** All visuals are interlinked to update dynamically based on selected filters.
 
 **3) Custom Time Ranges:** The dashboard allows selection of custom time ranges for more focused analysis.
+
+</div>
 
 # ER Diagram
 
